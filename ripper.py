@@ -26,7 +26,7 @@
 import bs4, config, os, re, socket, subprocess, sys, urllib2, time
 
 
-# Statics
+# Constants
 #------------------------------------------------------------------------
 TAG_REGEX = re.compile(r'<[^>]+>')
 
